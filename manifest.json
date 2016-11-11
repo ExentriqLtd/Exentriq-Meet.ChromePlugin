@@ -18,6 +18,8 @@
   ],
   "externally_connectable": {
       "matches": [
+          "*://talk-stage.exentriq.com/*",
+          "*://talk.exentriq.com/*",
           "*://meet.exentriq.com/*"
       ]
   }
