@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Exentriq Desktop Streamer",
   "description": "A simple extension that allows you to stream your desktop into meetings with Exentriq Meet.",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "minimum_chrome_version": "34",
   "icons": {
     "16": "jitsi-logo-16x16.png",
